@@ -6,6 +6,7 @@ npx expo start
 scan the qr code with the expo go app.
 
 here are the env variables. ( I would generally not add env vars in a readme :) )
+
 API_KEY=AIzaSyBirdJ-eG1fqQ3I1nhpDJT2goPYDT6RqsU
 
 AUTH_DOMAIN=Impulse-takehome.firebaseapp.com
